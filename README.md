@@ -17,6 +17,7 @@ Implementing a lossless compression algorithm for transferring a .RGB image file
 
 7.) Display the results by showing the original image on the left and the transformed image on the right.
 
+
 Unzip the folder to where you want.
 To run the code from command line, first compile with:
 
