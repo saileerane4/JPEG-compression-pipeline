@@ -1,7 +1,7 @@
 # JPEG-compression-pipeline
 Implementing a lossless compression algorithm for transferring a .RGB image file
 
-Steps:
+## Steps:
 
 1.) Convert the original .RGB image file into .YCrCb file format
 
@@ -20,10 +20,10 @@ Steps:
 Unzip the folder to where you want.
 To run the code from command line, first compile with:
 
->> javac imageReader.java
+### >> javac imageReader.java
 
 and then, you can run to read a sample image (image1.rgb) as:
 
->> java imageReader Image1.rgb 352 288
+### >> java imageReader Image1.rgb 352 288
 
 where, the first parameter is the image file name, second is the width and third is the height.
