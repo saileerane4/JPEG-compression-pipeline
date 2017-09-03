@@ -1,5 +1,5 @@
 # JPEG-compression-pipeline
-Implementing a lossless compression algorithm for transferring a .RGB image file
+Implementing a compression algorithm for transferring a .RGB image file
 
 ## Steps:
 
